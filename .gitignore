@@ -1,0 +1,36 @@
+# Intellij
+*.ipr
+*.iml
+*.iws
+.idea/
+
+# Log file
+log/
+logs/
+*.log
+
+# out
+**/out/
+
+# Mac
+.DS_Store
+
+# apollo
+.agollo
+apolloConfigBackup.json
+
+# vscode
+.vscode
+termination-log
+
+/deployment/limos
+
+
+回滚备份
+上线数据
+
+scripts/migrate/venv
+scripts/migrate/.idea
+
+shell
+/venv/
